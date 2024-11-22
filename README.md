@@ -1,6 +1,6 @@
 # Hallo! I'm Deborah! 👩🏽‍💻🩰🪩 
 
-Vim da terra de sabores tropicais e paisagens paradisíacas, Maceió, que sempre me inspirou a buscar novas experiências. Minha vivência em Brasília me proporcionou uma versatilidade única, tornando-me altamente adaptável a novas situações e desafios.
+Vim da terra de sabores tropicais e paisagens paradisíacas, Maceió, que sempre me inspirou a buscar novas experiências.
 
 
 Sou entusiasta das línguas estrangeiras e da arte da dança. Vejo a programação como uma coreografia, onde cada linha de código se alinha para criar uma apresentação inovadora.
