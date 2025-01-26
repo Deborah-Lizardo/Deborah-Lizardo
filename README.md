@@ -8,10 +8,12 @@ Welcome to my profile! Let’s iterate on knowledge together?
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deborah-Lizardo&layout=compact&langs_count=7&theme=dracula"/>
 
 ## About Me:  
-- 🌸 **Objective**: Currently in my 3rd semester of Software Engineering at PUCPR, super excited to grow and apply my technical skills while continuing my journey in education! 📚✨  
-- 🌺 **Motivation**: My love for tech began during my technologist degree while preparing for public service exams. The first tech-related exam I took completely changed my perspective, sparking my passion for technology. From that moment on, I shifted my focus and decided to pursue a career in software engineering, where I could blend my love for tech with solving real-world problems. 💻💡  
-- 🛠️ **Technologies & Skills**: Focusing on Python, SQL, and Java, with plans to dive deeper into these languages. My journey includes building a solid foundation in logic and  software requirements engineering. 🎯💻  
-- 🌎 **International Experience**: I've lived in four different states across Brazil and traveled extensively throughout South and North America, enriching my life with diverse cultures and expanding my language skills. 🌍✨  
+- 🌸 **Objective**: Currently in my 3rd semester of Software Engineering at PUCPR, super excited to grow and apply my technical skills while continuing my journey in education! 📚✨
+- 
+- 🌺 **Motivation**: My love for tech began during my technologist degree while preparing for public service exams. The first tech-related exam I took completely changed my perspective, sparking my passion for technology.  💻💡
+-  
+- 🌎 **International Experience**: I've lived in four different states across Brazil and traveled extensively throughout South and North America, enriching my life with diverse cultures and expanding my language skills. 🌍✨
+-   
 - 🌍 **Languages**:  
   - 🇬🇧 English (C1)  
   - 🇪🇸 Spanish (B2)  
@@ -21,13 +23,14 @@ Welcome to my profile! Let’s iterate on knowledge together?
 ---
 
 ## What You’ll Find Here:  
-- 📁 **College Exercises and Projects**: Repositories with Python exercises 🐍, a game developed in PyGame 🎮, websites created with HTML, CSS, and JavaScript 🌐, and a chat project using Python sockets 💬. 🌸💻   
--  🔗 **[Discord Server](https://link-do-seu-servidor-do-discord)**: A space for women beginners in programming to share knowledge, ask questions, and support each other in their tech journeys. Whether you're just starting out or looking for a community to grow with, join us and let's learn together! 💖👩‍💻
+- 📁 **College Exercises and Projects**: Repositories with Python exercises 🐍, a game developed in PyGame 🎮, websites created with HTML, CSS, and JavaScript 🌐, and a chat project using Python sockets 💬. 🌸💻
+-  
+-  🔗 **[Discord Server](https://discord.gg/VfUcdZh4)**: A space for women beginners in programming to share knowledge, ask questions, and support each other in their tech journeys. Whether you're just starting out or looking for a community to grow with, join us and let's learn together! 💖👩‍💻
  
 ## Personal Project - Les Pionnières Tech:  
 🌸 A website developed independently as part of my Web Development course project. This project honors women who pioneered in assistive technology, showcasing their contributions in a male-dominated field. I used HTML5, CSS3, and JavaScript to create an inclusive experience, with accessibility best practices to ensure a smooth navigation for all users. Tools like Color Contrast Analyser and Analyse Luminosity Contrast Ratio ensured compliance with WCAG AAA guidelines. The project continues evolving in both structure and interface to make a meaningful impact. 🌷✨
 
-##Catch me online
+##  Catch me online
 <div align="center">
 <a href="https://www.linkedin.com/in/deborah-lizardo/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"/>
