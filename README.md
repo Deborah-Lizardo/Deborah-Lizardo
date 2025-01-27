@@ -22,11 +22,7 @@ Welcome to my profile! Let’s iterate on knowledge together?
 
 ## What You’ll Find Here:  
 - 📁 **College Exercises and Projects**: Repositories with Python exercises 🐍, a game developed in PyGame 🎮, websites created with HTML, CSS, and JavaScript 🌐, and a chat project using Python sockets 💬. 🌸💻
-  
--  🔗 **[Discord Server](https://discord.gg/VfUcdZh4)**: A space for women beginners in programming to share knowledge, ask questions, and support each other in their tech journeys. Whether you're just starting out or looking for a community to grow with, join us and let's learn together! 💖👩‍💻
-  
- 
-## Personal Project - Les Pionnières Tech:  
+- Personal Project - Les Pionnières Tech:  
 🌸 A website created for my Web Development course, honoring women’s contributions to technology, including assistive tech. Built with HTML5, CSS3, and JavaScript, it follows accessibility best practices and complies with WCAG AAA guidelines.  plan to continue improving the code and expanding the project.🌷✨
 
 
