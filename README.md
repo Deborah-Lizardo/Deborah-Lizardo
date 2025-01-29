@@ -23,7 +23,7 @@ Welcome to my profile! Let’s iterate on knowledge together?
 ## What You’ll Find Here:  
 - 📁 **College Exercises and Projects**: Repositories with Python exercises 🐍, a game developed in PyGame 🎮, websites created with HTML, CSS, and JavaScript 🌐, and a chat project using Python sockets 💬. 🌸💻
 - Personal Project - Les Pionnières Tech:  
-🌸 A website created for my Web Development course, honoring women’s contributions to technology, including assistive tech. Built with HTML5, CSS3, and JavaScript, it follows accessibility best practices and complies with WCAG AAA guidelines.  plan to continue improving the code and expanding the project.🌷✨
+🌸 A website created for my Web Development course, honoring women’s contributions to technology, including assistive tech. Built with HTML5, CSS3, and JavaScript, it follows accessibility best practices and complies with WCAG AAA guidelines. I plan to continue improving the code and expanding the project.🌷✨
 
 
 ##  Catch me online
@@ -35,4 +35,5 @@ Welcome to my profile! Let’s iterate on knowledge together?
 
 
 ## Bis bald! 👋
+ <img  alt="Gif-Gatinho" height="115" src="https://github.com/user-attachments/assets/9e376e09-be02-4699-8dd0-1b4f27ff5cf3" width="150" hspace="50" >
 
