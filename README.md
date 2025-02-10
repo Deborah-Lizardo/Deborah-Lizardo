@@ -8,22 +8,14 @@ Welcome to my profile! Let’s iterate on knowledge together?
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deborah-Lizardo&layout=compact&langs_count=7&theme=dracula"/>
 
 ## About Me:  
-- 🌸 **Objective**: Currently in my 3rd semester of Software Engineering at PUCPR, super excited to grow and apply my technical skills while continuing my journey in education! 📚✨
+- **Objective**: Currently in my 3rd semester of Software Engineering, super excited to grow and apply my technical skills while continuing my journey in education! 📚
   
-- 🌺 **Motivation**: My love for tech began during my technologist degree while preparing for public service exams. The first tech-related exam I took completely changed my perspective, sparking my passion for technology.  💻💡
-  
-- 🌎 **International Experience**: I've lived in four different states across Brazil and traveled extensively throughout South and North America, enriching my life with diverse cultures and expanding my language skills. 🌍✨
-  
-- 🌍 **Languages**:  
-  - 🇬🇧 English (C1)  
-  - 🇪🇸 Spanish (B2)  
-  - 🇩🇪 German (A1-learning, aiming for fluency) 💬  
-- 💃 **Extra Skills**: I’ve danced urban styles for 5 years, participating in competitions, performances, and professional recordings. Dance taught me creativity, discipline, and teamwork—values I apply in my tech work, always striving for excellence. 🎶👯‍♀️  
+- **Motivation**: My love for tech began during my technologist degree while preparing for public service exams. The first tech-related exam I took completely changed my perspective, inspiring my enthusiasm for technology.  💻
 
 ## What You’ll Find Here:  
-- 📁 **College Exercises and Projects**: Repositories with Python exercises 🐍, a game developed in PyGame 🎮, websites created with HTML, CSS, and JavaScript 🌐, and a chat project using Python sockets 💬. 🌸💻
+- 📁 **College Exercises and Projects**: Repositories with Python exercises 🐍, a game developed in PyGame 🎮, websites created with HTML, CSS, and JavaScript 🌐and more!
 - Personal Project - Les Pionnières Tech:  
-🌸 A website created for my Web Development course, honoring women’s contributions to technology, including assistive tech. Built with HTML5, CSS3, and JavaScript, it follows accessibility best practices and complies with WCAG AAA guidelines. I plan to continue improving the code and expanding the project.🌷✨
+A website created for my Web Development course, honoring women’s contributions to technology, including assistive tech. Built with HTML5, CSS3, and JavaScript, it follows accessibility best practices and complies with WCAG AAA guidelines. I plan to continue improving the code and expanding the project.🌷✨
 
 
 ##  Catch me online
