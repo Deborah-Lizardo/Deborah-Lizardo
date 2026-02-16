@@ -11,10 +11,6 @@
 
 - Meu primeiro contato com a tecnologia ocorreu de forma não convencional, durante a preparação para um concurso público da área, experiência que despertou meu interesse pela aplicação prática da tecnologia na resolução de problemas reais.
 
-## Estatísticas do GitHub
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Deborah-Lizardo&show_icons=true&theme=dracula)](https://github.com/Deborah-Lizardo)
-
 #### Tech Stack
 <a href="https://www.docker.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30" height="30" />
@@ -54,9 +50,6 @@ Projetos:
 <div align="center">
   <a href="https://www.linkedin.com/in/deborah-lizardo/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
-  </a>
-  <a href="mailto:deborah.slizardoo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
 
