@@ -1,34 +1,64 @@
 # Hallo! I'm Deborah! 👩🏽‍💻🪩 
-Welcome to my profile! Let’s iterate on knowledge together?
+## Estudante de Ciência da Computação | Pesquisa em Cibersegurança | Data & IA
 
-#### Learning!
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" /><a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<div>
-<a href="https://github.com/Deborah-Lizardo">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deborah-Lizardo&layout=compact&langs_count=7&theme=dracula"/>
+🇩🇪 **Lass uns programmieren… und Deutsch lernen beim Codieren!** 💻
 
-## About me
+- Atualmente estou no 5º período de Bacharelado em Ciência da Computação, com foco em pesquisa e fundamentos computacionais.
 
-- **Objective**: Currently in my third semester of Computer Science, eager to expand and apply my technical skills while continuing my studies. Passionate about using technology to solve real-world challenges. 📚
+- Sou bolsista PIBITI na área de Cibersegurança, desenvolvendo pesquisa aplicada na configuração de arquiteturas Zero Trust com Ansible, com ênfase em automação e segurança de infraestrutura.
 
-- **Motivation**: My passion for technology began during my technologist program while preparing for public service exams. The first tech-related exam changed my perspective and sparked my enthusiasm for the field. 💻
+- Tenho grande interesse em Ciência de Dados, Inteligência Artificial e Matemática Aplicada, buscando integrar análise de dados, modelagem e segurança no desenvolvimento de soluções eficientes, robustas e orientadas a dados.
 
-## Projects Showcase
+- Meu primeiro contato com a tecnologia ocorreu de forma não convencional, durante a preparação para um concurso público da área, experiência que despertou meu interesse pela aplicação prática da tecnologia na resolução de problemas reais.
 
-- 📁 **Academic Projects**: Repositories with Python exercises 🐍, a PyGame-developed game 🎮, and websites built using HTML, CSS, and JavaScript 🌐.  
+## Estatísticas do GitHub
 
-- **Les Pionnières Tech**:  
-  A website created for my Web Development course, honoring women's contributions to technology. Built with HTML5, CSS3, and JavaScript, following accessibility guidelines (WCAG AAA). 🌷✨  
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Deborah-Lizardo&show_icons=true&theme=dracula)](https://github.com/Deborah-Lizardo)
 
+#### Tech Stack
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30" height="30" />
+</a>
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30" height="30" />
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30" />
+</a>
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30" height="30" />
+</a>
+<a href="https://www.javascript.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30" />
+</a>
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30" height="30" />
+</a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="30" height="30" />
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" width="30" height="30" />
+</a>
+<a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" target="_blank">        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="30" height="30"/>
+</a>
 
-## Perk Up Your Network:
+Projetos:
+- Pesquisa PIBITI: Implementação de arquitetura Zero Trust com Ansible
+- Estruturas de dados e algoritmos em C
+- Projetos de análise de dados com Python
+- Projeto Web “Les Pionnières Tech” (acessibilidade WCAG AAA)
+
+## Vernetze dich! 🌐 (Conecte-se comigo)
 <div align="center">
-<a href="https://www.linkedin.com/in/deborah-lizardo/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"/>
-<a href = "mailto:deborah.slizardoo@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>   
-
+  <a href="https://www.linkedin.com/in/deborah-lizardo/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
+  </a>
+  <a href="mailto:deborah.slizardoo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 
 ## Bis bald! 👋
- <img  alt="Gif-Gatinho" height="115" src="https://github.com/user-attachments/assets/9e376e09-be02-4699-8dd0-1b4f27ff5cf3" width="150" hspace="50" >
-
+<img alt="Gif-Gatinho" height="115" width="150" hspace="50" src="https://github.com/user-attachments/assets/9e376e09-be02-4699-8dd0-1b4f27ff5cf3"/>
